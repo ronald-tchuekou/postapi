@@ -1,0 +1,21 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "trainning",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Ronald Tchuekou",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "chalk": "^2.4.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "express-validator": "^5.3.1",
+    "mongoose": "^6.2.0",
+    "morgan": "^1.10.0",
+    "validator": "^10.8.0"
+  }
+}
